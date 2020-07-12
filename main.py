@@ -12,3 +12,4 @@ profile = ProfileReport(df)
 profile.to_file(output_file="jay123.html")
 
 #this code help you to get the quick analysis of any (.csv) file
+#Thank You!!
